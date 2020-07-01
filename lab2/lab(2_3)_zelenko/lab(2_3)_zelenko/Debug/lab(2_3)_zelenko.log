@@ -1,0 +1,4 @@
+﻿  lab(2_3)_zelenko.cpp
+C:\Users\Paxom4ik\source\repos\lab(2_3)_zelenko\lab(2_3)_zelenko\lab(2_3)_zelenko.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Paxom4ik\source\repos\lab(2_3)_zelenko\lab(2_3)_zelenko\lab(2_3)_zelenko.cpp(10,18): warning C4101: b: неиспользованная локальная переменная
+  lab(2_3)_zelenko.vcxproj -> C:\Users\Paxom4ik\source\repos\lab(2_3)_zelenko\Debug\lab(2_3)_zelenko.exe

@@ -1,0 +1,3 @@
+﻿  lab(4_4)_zelenko.cpp
+C:\Users\Paxom4ik\source\repos\lab(4_4)_zelenko\lab(4_4)_zelenko\lab(4_4)_zelenko.cpp(62,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab(4_4)_zelenko.vcxproj -> C:\Users\Paxom4ik\source\repos\lab(4_4)_zelenko\Debug\lab(4_4)_zelenko.exe
